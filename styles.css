@@ -1,0 +1,38 @@
+
+body
+{
+  background-color: powderblue;>
+
+}
+h1{
+  color: red;
+}
+h2{
+  color: blue;
+}
+h3{
+  color: blue;
+}
+
+.vk2{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-top-color: grey;
+  border-width: 8px;
+  width: 7%;
+}
+img{
+  height: 150px;
+  border-radius: 100%;
+}
+#cd
+{
+  color: yellow;
+}
